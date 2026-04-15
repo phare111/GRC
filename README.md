@@ -86,3 +86,18 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+## Citation
+
+If you find this project useful, please cite:
+
+```bibtex
+@misc{gong2026plausibilityverifiabilityriskcontrolledgenerative,
+  title={From Plausibility to Verifiability: Risk-Controlled Generative OCR for Vision-Language Models}, 
+  author={Weile Gong and Yiping Zuo and Zijian Lu and Xin He and Weibei Fan and Lianyong Qi and Shi Jin},
+  year={2026},
+  eprint={2603.19790},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2603.19790}, 
+}
